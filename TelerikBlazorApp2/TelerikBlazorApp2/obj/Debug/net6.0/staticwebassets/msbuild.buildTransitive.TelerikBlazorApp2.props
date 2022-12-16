@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TelerikBlazorApp2.props" />
+</Project>
